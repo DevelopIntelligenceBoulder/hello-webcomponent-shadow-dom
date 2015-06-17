@@ -1,0 +1,19 @@
+{
+  "name": "hello-webcomponent-shadow-dom",
+  "version": "0.0.1",
+  "description": "Hello World with the Shadow DOM via the Web Component Specification",
+  "scripts": {
+    "start": "node server.js",
+    "prestart": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevelopIntelligenceBoulder/hello-webcomponent-shadow-dom.git"
+  },
+  "author": "Kamren Zorgdrager <kamrenz@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/DevelopIntelligenceBoulder/hello-webcomponent-shadow-dom",
+  "devDependencies": {
+    "express": "^4.12.4"
+  }
+}
