@@ -15,5 +15,8 @@
   "homepage": "https://github.com/DevelopIntelligenceBoulder/hello-webcomponent-shadow-dom",
   "devDependencies": {
     "express": "^4.12.4"
+  },
+  "dependencies": {
+    "jquery": "^2.1.4"
   }
 }
