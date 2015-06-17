@@ -20,7 +20,7 @@
             var shadowRoot = shadowHost.createShadowRoot();
 
             //Attach template to DOM
-            var templateNode = $('<h1>Hello ' +  model.place + '</h1>')[0];
+            var templateNode = $('<h1>Hello Shadow ' +  model.place + '</h1>')[0];
 
             //Attach template content to DOM
             shadowRoot.appendChild(templateNode);

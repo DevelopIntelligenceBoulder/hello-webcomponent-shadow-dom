@@ -17,7 +17,7 @@
             var lightHost = document.getElementById(elementID);
 
             //Attach template to DOM
-            var templateNode = $('<h1>Hello ' +  model.place + '</h1>')[0];
+            var templateNode = $('<h1>Hello Light ' +  model.place + '</h1>')[0];
 
             //Attach template content to DOM
             lightHost.appendChild(templateNode);

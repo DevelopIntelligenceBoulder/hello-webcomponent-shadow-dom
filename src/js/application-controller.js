@@ -29,16 +29,12 @@
      */
     $(function() {
 
-        var shadowModel = {
-            place: 'Shadow'
+        var model = {
+            place: 'World'
         };
 
-        var lightModel = {
-            place: 'Light'
-        };
-
-        initializeHelloShadowComponent(shadowModel);
-        initializeHelloLightComponent(lightModel);
+        initializeHelloShadowComponent(model);
+        initializeHelloLightComponent(model);
 
     });
 

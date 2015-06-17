@@ -1,6 +1,6 @@
 {
   "name": "hello-webcomponent-shadow-dom",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hello World with the Shadow DOM via the Web Component Specification",
   "scripts": {
     "start": "node server.js",
